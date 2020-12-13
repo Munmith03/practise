@@ -1,2 +1,0 @@
-# practise
-pandas and numpy
